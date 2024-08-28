@@ -1,0 +1,4 @@
+streamlit==1.38.0
+pandas==2.2.2
+pickle-mixin
+gdown==4.5.1
